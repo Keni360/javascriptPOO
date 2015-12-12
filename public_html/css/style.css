@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12/12/2015, 11:03:18
+    Author     : mauri
+*/
+
+*{margin:0; padding:0;}
+
+ul{list-style: none;}
+ul li {color:green;}
+
+.slideshow li{transition:all 1s; opacity:0;}
+
+.ativo{color:red;}
